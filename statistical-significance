@@ -1,0 +1,17 @@
+---
+title: Statistical Significance
+nav_order: 3
+---
+
+# Statistical significance
+
+Statistical significance is...
+
+Commonly, the null hypothesis will be that some parameter representing the relationship between two variables X and Y is 0 (for example, "the null hypothesis is that the correlation between X and Y is 0"). In this case, statistical significance is...
+
+# Common incorrect definitions
+
+These are common ways that people talk about statistical significance. None of them are accurate. They are accompanied by very brief explanations of why they are not accurate.
+
+* ❌ A *Explanation*
+* ❌ B *Explanation*
