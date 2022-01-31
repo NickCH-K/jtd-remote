@@ -11,7 +11,7 @@ Commonly, the null hypothesis will be that some parameter representing the relat
 
 # Common incorrect definitions
 
-These are common ways that people talk about p-values. None of them are accurate. They are accompanied by very brief explanations of why they are not accurate.
+These are common ways that people talk about p-values. None of them is accurate. They are accompanied by very brief explanations of why they are not accurate.
 
 * ❌ A *Explanation*
 * ❌ B *Explanation*
