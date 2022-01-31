@@ -1,8 +1,6 @@
 ---
 title: p-value
-parent: Terms
-has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # p-value
