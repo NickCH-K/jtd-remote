@@ -1,8 +1,3 @@
----
-title: Some Statistical Definitions
-has_children: false
-nav_order: 1
----
 
 ## Some Statistical Definitions
 
